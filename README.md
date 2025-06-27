@@ -27,7 +27,6 @@ I consider myself a **Full Stack QA Engineer**, meaning I cover **Backend, APIs,
 ### 🛠 **Tech Stack**
 - **Programming Language**: JavaScript (my main language)
 - **Test Frameworks**: Cypress, Playwright, Jest
-- **Backend Development**: Node.js (I build REST APIs to expose test frameworks and execute test runs)
 - **CI/CD & Cloud**: Jenkins, GitHub Actions.
 
 ## 👨‍🏫 **Leadership & QA Strategy**
